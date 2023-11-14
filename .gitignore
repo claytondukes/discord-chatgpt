@@ -1,8 +1,9 @@
-/config.json
-/stats.json
-/users.json
-/main.db
-/node_modules
-/logs
-/images
+/.env
+config.json
+stats.json
+users.json
+main.db
+node_modules
+logs
+images
 /_*
